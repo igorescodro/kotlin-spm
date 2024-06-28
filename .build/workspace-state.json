@@ -1,0 +1,26 @@
+{
+  "object" : {
+    "artifacts" : [
+      {
+        "kind" : "xcframework",
+        "packageRef" : {
+          "identity" : "projects",
+          "kind" : "root",
+          "location" : "/Users/igorescodro/Desktop/projects",
+          "name" : "projects"
+        },
+        "path" : "/Users/igorescodro/Desktop/projects/.build/artifacts/projects/Shared/Shared.xcframework",
+        "source" : {
+          "checksum" : "9cdfbe2e8fb5aa27fa12462b3f27a25292e17e754f0aff8805de9318418f8d06",
+          "type" : "remote",
+          "url" : "https://github.com/igorescodro/kotlin-spm/raw/main/Shared.xcframework.zip"
+        },
+        "targetName" : "Shared"
+      }
+    ],
+    "dependencies" : [
+
+    ]
+  },
+  "version" : 6
+}
